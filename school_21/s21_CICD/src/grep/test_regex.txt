@@ -1,0 +1,8 @@
+Number 1
+Year 2024
+float 1e+7
+flot 1,29 
+1.39
+abcdefghijklmnopqrstuvwxyz
+student
+666666

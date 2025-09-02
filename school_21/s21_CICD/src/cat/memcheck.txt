@@ -1,0 +1,3240 @@
+     1	Funny     1	FunnyFunnyFunny     1	Funny     1	FunnyFunnyFunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	FunnyFunnyFunny     1	Funny     1	FunnyFunnyFunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	FunnyFunnyFunny     1	Funny     1	FunnyFunnyFunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	FunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	FunnyFunnyFunny     1	Funny     1	FunnyFunnyFunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	FunnyFunnyFunny     1	Funny     1	FunnyFunnyFunnyFunnyFunny     1	Funny     1	Funny     1	Funny     1	Funny     1	Funny     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!1 col - I am student$
+$
+$
+$
+5 col - Who are you?$
+$
+$
+$
+$
+10 col - That's right!1 col - I am student$
+$
+$
+$
+5 col - Who are you?$
+$
+$
+$
+$
+10 col - That's right!     1	1 col - I am student
+     2	
+     3	
+     4	
+     5	5 col - Who are you?
+     6	
+     7	
+     8	
+     9	
+    10	10 col - That's right!     1	1 col - I am student
+     2	
+     3	
+     4	
+     5	5 col - Who are you?
+     6	
+     7	
+     8	
+     9	
+    10	10 col - That's right!1 col - I am student
+
+5 col - Who are you?
+
+10 col - That's right!1 col - I am student
+
+5 col - Who are you?
+
+10 col - That's right!1 col - I am student
+
+
+
+5 col - Who are you?
+
+
+
+
+10 col - That's right!1 col - I am student
+
+
+
+5 col - Who are you?
+
+
+
+
+10 col - That's right!     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!     1	1 col - I am student
+
+     2	5 col - Who are you?
+
+     3	10 col - That's right!     1	1 col - I am student$
+      	$
+     2	5 col - Who are you?$
+      	$
+     3	10 col - That's right!     1	1 col - I am student$
+      	$
+     2	5 col - Who are you?$
+      	$
+     3	10 col - That's right!     1	1 col - I am student$
+     2	$
+     3	$
+     4	$
+     5	5 col - Who are you?$
+     6	$
+     7	$
+     8	$
+     9	$
+    10	10 col - That's right!
+
+
+
+
+     1	6 col - What's up?
+
+
+
+
+     1	6 col - What's up?$
+$
+$
+$
+$
+6 col - What's up?$
+$
+$
+$
+$
+6 col - What's up?     1	
+     2	
+     3	
+     4	
+     5	
+     6	6 col - What's up?     1	
+     2	
+     3	
+     4	
+     5	
+     6	6 col - What's up?
+6 col - What's up?
+6 col - What's up?
+
+
+
+
+6 col - What's up?
+
+
+
+
+6 col - What's up?
+
+
+
+
+     1	6 col - What's up?
+     1	6 col - What's up?      	$
+     1	6 col - What's up?      	$
+     1	6 col - What's up?     1	$
+     2	$
+     3	$
+     4	$
+     5	$
+     6	6 col - What's up?     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. $
+    You came home from work at Hewlett-Packard, feeling a little tired. $
+        You lived in a small two-bedroom apartment on the outskirts of N town. $
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+$
+$
+$
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+	$
+$
+$
+$
+> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. $
+    You came home from work at Hewlett-Packard, feeling a little tired. $
+        You lived in a small two-bedroom apartment on the outskirts of N town. $
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+$
+$
+$
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+	$
+$
+$
+$
+> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+     5	
+     6	
+     7	
+     8		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     9		
+    10	
+    11	
+    12	
+    13	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+     5	
+     6	
+     7	
+     8		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     9		
+    10	
+    11	
+    12	
+    13	> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+	
+
+> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+	
+
+> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+^I
+
+
+
+> Hello everybody out there using minix -It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+^I
+
+
+
+> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+     7	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+      	$
+     5	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     6	^I$
+      	$
+     7	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+      	$
+     5	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     6	^I$
+      	$
+     7	> Hello everybody out there using minix -     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+     5	$
+     6	$
+     7	$
+     8	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     9	^I$
+    10	$
+    11	$
+    12	$
+    13	> Hello everybody out there using minix -     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+    $
+        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+        $
+        $
+        $
+M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+$
+$
+$
+*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+Стоял обычный серый день осенью 1993 года. $
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. $
+    $
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. $
+        $
+        $
+        $
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.$
+$
+$
+$
+*Щелчок* — это ты нажал кнопку включения.$
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+     9	
+    10	
+    11	
+    12	*Щелчок* — это ты нажал кнопку включения.
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+     9	
+    10	
+    11	
+    12	*Щелчок* — это ты нажал кнопку включения.
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+*Щелчок* — это ты нажал кнопку включения.
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+*Щелчок* — это ты нажал кнопку включения.
+M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. 
+    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. 
+    
+        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. 
+        
+        
+        
+M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.
+
+
+
+*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+*Щелчок* — это ты нажал кнопку включения.
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+      	$
+     9	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+      	$
+     9	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+     9	$
+    10	$
+    11	$
+    12	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+     1	FunnyProcess:         s21_cat [44503]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100b6b000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44502]
+
+Date/Time:       2024-05-23 17:27:23.051 +0700
+Launch Time:     2024-05-23 17:27:22.487 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1648K
+Physical footprint (peak):  1648K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44503: 178 nodes malloced for 14 KB
+Process 44503: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44510]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100ac8000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44509]
+
+Date/Time:       2024-05-23 17:27:23.738 +0700
+Launch Time:     2024-05-23 17:27:23.292 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1644K
+Physical footprint (peak):  1644K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44510: 178 nodes malloced for 14 KB
+Process 44510: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44514]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x104700000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44513]
+
+Date/Time:       2024-05-23 17:27:24.404 +0700
+Launch Time:     2024-05-23 17:27:23.952 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1596K
+Physical footprint (peak):  1596K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44514: 178 nodes malloced for 14 KB
+Process 44514: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44518]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x106f3b000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44517]
+
+Date/Time:       2024-05-23 17:27:25.060 +0700
+Launch Time:     2024-05-23 17:27:24.612 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44518: 178 nodes malloced for 14 KB
+Process 44518: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44522]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x107d39000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44521]
+
+Date/Time:       2024-05-23 17:27:25.717 +0700
+Launch Time:     2024-05-23 17:27:25.270 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44522: 178 nodes malloced for 14 KB
+Process 44522: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44526]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x101e79000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44525]
+
+Date/Time:       2024-05-23 17:27:26.373 +0700
+Launch Time:     2024-05-23 17:27:25.921 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1652K
+Physical footprint (peak):  1652K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44526: 178 nodes malloced for 14 KB
+Process 44526: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44530]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10211d000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44529]
+
+Date/Time:       2024-05-23 17:27:27.032 +0700
+Launch Time:     2024-05-23 17:27:26.585 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44530: 178 nodes malloced for 14 KB
+Process 44530: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44533]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10451d000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44532]
+
+Date/Time:       2024-05-23 17:27:27.691 +0700
+Launch Time:     2024-05-23 17:27:27.242 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1576K
+Physical footprint (peak):  1576K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44533: 178 nodes malloced for 14 KB
+Process 44533: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44538]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10d190000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44537]
+
+Date/Time:       2024-05-23 17:27:28.345 +0700
+Launch Time:     2024-05-23 17:27:27.900 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44538: 178 nodes malloced for 14 KB
+Process 44538: 0 leaks for 0 total leaked bytes.
+
+FunnyProcess:         s21_cat [44542]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10350b000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44541]
+
+Date/Time:       2024-05-23 17:27:29.004 +0700
+Launch Time:     2024-05-23 17:27:28.557 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1576K
+Physical footprint (peak):  1576K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44542: 178 nodes malloced for 14 KB
+Process 44542: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44546]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x106b10000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44545]
+
+Date/Time:       2024-05-23 17:27:29.666 +0700
+Launch Time:     2024-05-23 17:27:29.214 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1568K
+Physical footprint (peak):  1568K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44546: 178 nodes malloced for 14 KB
+Process 44546: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44550]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10f5e0000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44549]
+
+Date/Time:       2024-05-23 17:27:30.341 +0700
+Launch Time:     2024-05-23 17:27:29.882 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1640K
+Physical footprint (peak):  1640K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44550: 178 nodes malloced for 14 KB
+Process 44550: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44554]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x104375000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44553]
+
+Date/Time:       2024-05-23 17:27:31.022 +0700
+Launch Time:     2024-05-23 17:27:30.565 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44554: 178 nodes malloced for 14 KB
+Process 44554: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44558]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10e18d000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44557]
+
+Date/Time:       2024-05-23 17:27:31.697 +0700
+Launch Time:     2024-05-23 17:27:31.244 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44558: 178 nodes malloced for 14 KB
+Process 44558: 0 leaks for 0 total leaked bytes.
+
+     1	FunnyProcess:         s21_cat [44563]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10e037000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44562]
+
+Date/Time:       2024-05-23 17:27:32.382 +0700
+Launch Time:     2024-05-23 17:27:31.916 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1576K
+Physical footprint (peak):  1576K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44563: 178 nodes malloced for 14 KB
+Process 44563: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!Process:         s21_cat [44569]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x109677000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44568]
+
+Date/Time:       2024-05-23 17:27:33.038 +0700
+Launch Time:     2024-05-23 17:27:32.591 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44569: 178 nodes malloced for 14 KB
+Process 44569: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!Process:         s21_cat [44584]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x102620000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44583]
+
+Date/Time:       2024-05-23 17:27:33.725 +0700
+Launch Time:     2024-05-23 17:27:33.264 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1636K
+Physical footprint (peak):  1636K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44584: 178 nodes malloced for 14 KB
+Process 44584: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student$
+$
+$
+$
+5 col - Who are you?$
+$
+$
+$
+$
+10 col - That's right!Process:         s21_cat [44597]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x104102000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44596]
+
+Date/Time:       2024-05-23 17:27:34.372 +0700
+Launch Time:     2024-05-23 17:27:33.930 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44597: 178 nodes malloced for 14 KB
+Process 44597: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student$
+$
+$
+$
+5 col - Who are you?$
+$
+$
+$
+$
+10 col - That's right!Process:         s21_cat [44601]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10f9e4000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44600]
+
+Date/Time:       2024-05-23 17:27:35.021 +0700
+Launch Time:     2024-05-23 17:27:34.580 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1620K
+Physical footprint (peak):  1620K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44601: 178 nodes malloced for 14 KB
+Process 44601: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+     2	
+     3	
+     4	
+     5	5 col - Who are you?
+     6	
+     7	
+     8	
+     9	
+    10	10 col - That's right!Process:         s21_cat [44605]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10d3cf000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44604]
+
+Date/Time:       2024-05-23 17:27:35.671 +0700
+Launch Time:     2024-05-23 17:27:35.229 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1612K
+Physical footprint (peak):  1612K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44605: 178 nodes malloced for 14 KB
+Process 44605: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+     2	
+     3	
+     4	
+     5	5 col - Who are you?
+     6	
+     7	
+     8	
+     9	
+    10	10 col - That's right!Process:         s21_cat [44609]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1000f7000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44608]
+
+Date/Time:       2024-05-23 17:27:36.316 +0700
+Launch Time:     2024-05-23 17:27:35.876 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44609: 178 nodes malloced for 14 KB
+Process 44609: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student
+
+5 col - Who are you?
+
+10 col - That's right!Process:         s21_cat [44613]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x101411000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44612]
+
+Date/Time:       2024-05-23 17:27:36.966 +0700
+Launch Time:     2024-05-23 17:27:36.524 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1644K
+Physical footprint (peak):  1644K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44613: 178 nodes malloced for 14 KB
+Process 44613: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student
+
+5 col - Who are you?
+
+10 col - That's right!Process:         s21_cat [44616]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10dbe8000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44615]
+
+Date/Time:       2024-05-23 17:27:37.617 +0700
+Launch Time:     2024-05-23 17:27:37.174 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44616: 178 nodes malloced for 14 KB
+Process 44616: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student
+
+
+
+5 col - Who are you?
+
+
+
+
+10 col - That's right!Process:         s21_cat [44622]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x109eb6000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44621]
+
+Date/Time:       2024-05-23 17:27:38.263 +0700
+Launch Time:     2024-05-23 17:27:37.826 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1556K
+Physical footprint (peak):  1556K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44622: 178 nodes malloced for 14 KB
+Process 44622: 0 leaks for 0 total leaked bytes.
+
+1 col - I am student
+
+
+
+5 col - Who are you?
+
+
+
+
+10 col - That's right!Process:         s21_cat [44626]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10384d000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44625]
+
+Date/Time:       2024-05-23 17:27:38.913 +0700
+Launch Time:     2024-05-23 17:27:38.469 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1576K
+Physical footprint (peak):  1576K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44626: 178 nodes malloced for 14 KB
+Process 44626: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+
+
+
+     2	5 col - Who are you?
+
+
+
+
+     3	10 col - That's right!Process:         s21_cat [44631]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10cc19000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44630]
+
+Date/Time:       2024-05-23 17:27:39.569 +0700
+Launch Time:     2024-05-23 17:27:39.122 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1596K
+Physical footprint (peak):  1596K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44631: 178 nodes malloced for 14 KB
+Process 44631: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student
+
+     2	5 col - Who are you?
+
+     3	10 col - That's right!Process:         s21_cat [44635]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10eac9000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44634]
+
+Date/Time:       2024-05-23 17:27:40.285 +0700
+Launch Time:     2024-05-23 17:27:39.777 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44635: 178 nodes malloced for 14 KB
+Process 44635: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student$
+      	$
+     2	5 col - Who are you?$
+      	$
+     3	10 col - That's right!Process:         s21_cat [44754]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10fe59000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44753]
+
+Date/Time:       2024-05-23 17:27:41.006 +0700
+Launch Time:     2024-05-23 17:27:40.527 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1676K
+Physical footprint (peak):  1676K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44754: 178 nodes malloced for 14 KB
+Process 44754: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student$
+      	$
+     2	5 col - Who are you?$
+      	$
+     3	10 col - That's right!Process:         s21_cat [44784]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10d338000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44782]
+
+Date/Time:       2024-05-23 17:27:41.663 +0700
+Launch Time:     2024-05-23 17:27:41.221 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1628K
+Physical footprint (peak):  1628K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44784: 178 nodes malloced for 14 KB
+Process 44784: 0 leaks for 0 total leaked bytes.
+
+     1	1 col - I am student$
+     2	$
+     3	$
+     4	$
+     5	5 col - Who are you?$
+     6	$
+     7	$
+     8	$
+     9	$
+    10	10 col - That's right!Process:         s21_cat [44788]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10b371000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44787]
+
+Date/Time:       2024-05-23 17:27:42.308 +0700
+Launch Time:     2024-05-23 17:27:41.866 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1564K
+Physical footprint (peak):  1564K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44788: 178 nodes malloced for 14 KB
+Process 44788: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44792]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x107e6f000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44791]
+
+Date/Time:       2024-05-23 17:27:42.955 +0700
+Launch Time:     2024-05-23 17:27:42.518 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44792: 177 nodes malloced for 9 KB
+Process 44792: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44797]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100ab3000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44796]
+
+Date/Time:       2024-05-23 17:27:43.642 +0700
+Launch Time:     2024-05-23 17:27:43.165 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44797: 177 nodes malloced for 9 KB
+Process 44797: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44813]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10ce84000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44812]
+
+Date/Time:       2024-05-23 17:27:44.288 +0700
+Launch Time:     2024-05-23 17:27:43.851 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44813: 177 nodes malloced for 9 KB
+Process 44813: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44817]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10229f000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44816]
+
+Date/Time:       2024-05-23 17:27:44.939 +0700
+Launch Time:     2024-05-23 17:27:44.494 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1516K
+Physical footprint (peak):  1516K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44817: 177 nodes malloced for 9 KB
+Process 44817: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44820]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x105017000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44819]
+
+Date/Time:       2024-05-23 17:27:45.582 +0700
+Launch Time:     2024-05-23 17:27:45.143 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44820: 177 nodes malloced for 9 KB
+Process 44820: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44824]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x107809000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44823]
+
+Date/Time:       2024-05-23 17:27:46.223 +0700
+Launch Time:     2024-05-23 17:27:45.787 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44824: 177 nodes malloced for 9 KB
+Process 44824: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44828]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x101beb000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44826]
+
+Date/Time:       2024-05-23 17:27:46.868 +0700
+Launch Time:     2024-05-23 17:27:46.428 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1540K
+Physical footprint (peak):  1540K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44828: 177 nodes malloced for 9 KB
+Process 44828: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44832]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x101e25000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44831]
+
+Date/Time:       2024-05-23 17:27:47.523 +0700
+Launch Time:     2024-05-23 17:27:47.078 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44832: 177 nodes malloced for 9 KB
+Process 44832: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44837]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x105b1a000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44836]
+
+Date/Time:       2024-05-23 17:27:48.167 +0700
+Launch Time:     2024-05-23 17:27:47.727 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1572K
+Physical footprint (peak):  1572K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44837: 177 nodes malloced for 9 KB
+Process 44837: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44840]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x109547000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44839]
+
+Date/Time:       2024-05-23 17:27:48.812 +0700
+Launch Time:     2024-05-23 17:27:48.376 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44840: 177 nodes malloced for 9 KB
+Process 44840: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44844]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x108687000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44843]
+
+Date/Time:       2024-05-23 17:27:49.458 +0700
+Launch Time:     2024-05-23 17:27:49.019 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1528K
+Physical footprint (peak):  1528K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44844: 177 nodes malloced for 9 KB
+Process 44844: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44848]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x104ff4000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44847]
+
+Date/Time:       2024-05-23 17:27:50.101 +0700
+Launch Time:     2024-05-23 17:27:49.663 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1528K
+Physical footprint (peak):  1528K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44848: 177 nodes malloced for 9 KB
+Process 44848: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44852]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10f816000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44851]
+
+Date/Time:       2024-05-23 17:27:50.747 +0700
+Launch Time:     2024-05-23 17:27:50.307 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1524K
+Physical footprint (peak):  1524K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44852: 177 nodes malloced for 9 KB
+Process 44852: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44856]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x109266000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44855]
+
+Date/Time:       2024-05-23 17:27:51.390 +0700
+Launch Time:     2024-05-23 17:27:50.952 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44856: 177 nodes malloced for 9 KB
+Process 44856: 0 leaks for 0 total leaked bytes.
+
+Process:         s21_cat [44860]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10e30f000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44859]
+
+Date/Time:       2024-05-23 17:27:52.041 +0700
+Launch Time:     2024-05-23 17:27:51.600 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1532K
+Physical footprint (peak):  1532K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44860: 177 nodes malloced for 9 KB
+Process 44860: 0 leaks for 0 total leaked bytes.
+
+
+
+
+
+
+     1	6 col - What's up?Process:         s21_cat [44863]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10b024000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44862]
+
+Date/Time:       2024-05-23 17:27:52.690 +0700
+Launch Time:     2024-05-23 17:27:52.246 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1644K
+Physical footprint (peak):  1644K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44863: 178 nodes malloced for 14 KB
+Process 44863: 0 leaks for 0 total leaked bytes.
+
+
+
+
+
+
+     1	6 col - What's up?Process:         s21_cat [44867]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100f39000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44866]
+
+Date/Time:       2024-05-23 17:27:53.347 +0700
+Launch Time:     2024-05-23 17:27:52.899 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44867: 178 nodes malloced for 14 KB
+Process 44867: 0 leaks for 0 total leaked bytes.
+
+$
+$
+$
+$
+$
+6 col - What's up?Process:         s21_cat [44874]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x105b54000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44873]
+
+Date/Time:       2024-05-23 17:27:53.997 +0700
+Launch Time:     2024-05-23 17:27:53.555 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44874: 178 nodes malloced for 14 KB
+Process 44874: 0 leaks for 0 total leaked bytes.
+
+$
+$
+$
+$
+$
+6 col - What's up?Process:         s21_cat [44878]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1025b8000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44877]
+
+Date/Time:       2024-05-23 17:27:54.639 +0700
+Launch Time:     2024-05-23 17:27:54.200 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1568K
+Physical footprint (peak):  1568K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44878: 178 nodes malloced for 14 KB
+Process 44878: 0 leaks for 0 total leaked bytes.
+
+     1	
+     2	
+     3	
+     4	
+     5	
+     6	6 col - What's up?Process:         s21_cat [44882]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x102b2f000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44881]
+
+Date/Time:       2024-05-23 17:27:55.284 +0700
+Launch Time:     2024-05-23 17:27:54.844 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1588K
+Physical footprint (peak):  1588K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44882: 178 nodes malloced for 14 KB
+Process 44882: 0 leaks for 0 total leaked bytes.
+
+     1	
+     2	
+     3	
+     4	
+     5	
+     6	6 col - What's up?Process:         s21_cat [44885]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x106d43000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44884]
+
+Date/Time:       2024-05-23 17:27:55.928 +0700
+Launch Time:     2024-05-23 17:27:55.489 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1548K
+Physical footprint (peak):  1548K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44885: 178 nodes malloced for 14 KB
+Process 44885: 0 leaks for 0 total leaked bytes.
+
+
+6 col - What's up?Process:         s21_cat [44890]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x108b5b000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44889]
+
+Date/Time:       2024-05-23 17:27:56.574 +0700
+Launch Time:     2024-05-23 17:27:56.134 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44890: 178 nodes malloced for 14 KB
+Process 44890: 0 leaks for 0 total leaked bytes.
+
+
+6 col - What's up?Process:         s21_cat [44894]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10280c000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44893]
+
+Date/Time:       2024-05-23 17:27:57.219 +0700
+Launch Time:     2024-05-23 17:27:56.781 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1572K
+Physical footprint (peak):  1572K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44894: 178 nodes malloced for 14 KB
+Process 44894: 0 leaks for 0 total leaked bytes.
+
+
+
+
+
+
+6 col - What's up?Process:         s21_cat [44897]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10a7ef000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44896]
+
+Date/Time:       2024-05-23 17:27:57.873 +0700
+Launch Time:     2024-05-23 17:27:57.426 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1564K
+Physical footprint (peak):  1564K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44897: 178 nodes malloced for 14 KB
+Process 44897: 0 leaks for 0 total leaked bytes.
+
+
+
+
+
+
+6 col - What's up?Process:         s21_cat [44902]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10363b000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44901]
+
+Date/Time:       2024-05-23 17:27:58.517 +0700
+Launch Time:     2024-05-23 17:27:58.079 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44902: 178 nodes malloced for 14 KB
+Process 44902: 0 leaks for 0 total leaked bytes.
+
+
+
+
+
+
+     1	6 col - What's up?Process:         s21_cat [44906]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10cead000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44905]
+
+Date/Time:       2024-05-23 17:27:59.163 +0700
+Launch Time:     2024-05-23 17:27:58.724 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1548K
+Physical footprint (peak):  1548K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44906: 178 nodes malloced for 14 KB
+Process 44906: 0 leaks for 0 total leaked bytes.
+
+
+     1	6 col - What's up?Process:         s21_cat [44910]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10c6c7000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44909]
+
+Date/Time:       2024-05-23 17:27:59.807 +0700
+Launch Time:     2024-05-23 17:27:59.368 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1572K
+Physical footprint (peak):  1572K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44910: 178 nodes malloced for 14 KB
+Process 44910: 0 leaks for 0 total leaked bytes.
+
+      	$
+     1	6 col - What's up?Process:         s21_cat [44930]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1098da000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [44914]
+
+Date/Time:       2024-05-23 17:28:00.548 +0700
+Launch Time:     2024-05-23 17:28:00.018 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1640K
+Physical footprint (peak):  1640K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 44930: 178 nodes malloced for 14 KB
+Process 44930: 0 leaks for 0 total leaked bytes.
+
+      	$
+     1	6 col - What's up?Process:         s21_cat [45033]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x108969000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45032]
+
+Date/Time:       2024-05-23 17:28:01.306 +0700
+Launch Time:     2024-05-23 17:28:00.845 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1688K
+Physical footprint (peak):  1688K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45033: 178 nodes malloced for 14 KB
+Process 45033: 0 leaks for 0 total leaked bytes.
+
+     1	$
+     2	$
+     3	$
+     4	$
+     5	$
+     6	6 col - What's up?Process:         s21_cat [45058]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10374d000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45057]
+
+Date/Time:       2024-05-23 17:28:01.969 +0700
+Launch Time:     2024-05-23 17:28:01.525 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45058: 178 nodes malloced for 14 KB
+Process 45058: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -Process:         s21_cat [45067]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x102a88000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45066]
+
+Date/Time:       2024-05-23 17:28:02.648 +0700
+Launch Time:     2024-05-23 17:28:02.174 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1584K
+Physical footprint (peak):  1584K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45067: 178 nodes malloced for 14 KB
+Process 45067: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -Process:         s21_cat [45079]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10a4f1000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45078]
+
+Date/Time:       2024-05-23 17:28:03.300 +0700
+Launch Time:     2024-05-23 17:28:02.855 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1556K
+Physical footprint (peak):  1556K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45079: 178 nodes malloced for 14 KB
+Process 45079: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. $
+    You came home from work at Hewlett-Packard, feeling a little tired. $
+        You lived in a small two-bedroom apartment on the outskirts of N town. $
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+$
+$
+$
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+	$
+$
+$
+$
+> Hello everybody out there using minix -Process:         s21_cat [45084]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100ecf000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45083]
+
+Date/Time:       2024-05-23 17:28:03.949 +0700
+Launch Time:     2024-05-23 17:28:03.508 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1588K
+Physical footprint (peak):  1588K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45084: 178 nodes malloced for 14 KB
+Process 45084: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. $
+    You came home from work at Hewlett-Packard, feeling a little tired. $
+        You lived in a small two-bedroom apartment on the outskirts of N town. $
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+$
+$
+$
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+	$
+$
+$
+$
+> Hello everybody out there using minix -Process:         s21_cat [45089]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10cdb2000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45088]
+
+Date/Time:       2024-05-23 17:28:04.594 +0700
+Launch Time:     2024-05-23 17:28:04.157 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45089: 178 nodes malloced for 14 KB
+Process 45089: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+     5	
+     6	
+     7	
+     8		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     9		
+    10	
+    11	
+    12	
+    13	> Hello everybody out there using minix -Process:         s21_cat [45093]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x105623000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45092]
+
+Date/Time:       2024-05-23 17:28:05.244 +0700
+Launch Time:     2024-05-23 17:28:04.798 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45093: 178 nodes malloced for 14 KB
+Process 45093: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+     5	
+     6	
+     7	
+     8		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     9		
+    10	
+    11	
+    12	
+    13	> Hello everybody out there using minix -Process:         s21_cat [45098]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1058da000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45097]
+
+Date/Time:       2024-05-23 17:28:05.895 +0700
+Launch Time:     2024-05-23 17:28:05.451 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1564K
+Physical footprint (peak):  1564K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45098: 178 nodes malloced for 14 KB
+Process 45098: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+	
+
+> Hello everybody out there using minix -Process:         s21_cat [45102]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1063e8000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45101]
+
+Date/Time:       2024-05-23 17:28:06.538 +0700
+Launch Time:     2024-05-23 17:28:06.101 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1652K
+Physical footprint (peak):  1652K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45102: 178 nodes malloced for 14 KB
+Process 45102: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+	`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+	
+
+> Hello everybody out there using minix -Process:         s21_cat [45106]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1014f0000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45105]
+
+Date/Time:       2024-05-23 17:28:07.187 +0700
+Launch Time:     2024-05-23 17:28:06.748 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45106: 178 nodes malloced for 14 KB
+Process 45106: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+^I
+
+
+
+> Hello everybody out there using minix -Process:         s21_cat [45109]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10ae0e000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45108]
+
+Date/Time:       2024-05-23 17:28:07.846 +0700
+Launch Time:     2024-05-23 17:28:07.396 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1544K
+Physical footprint (peak):  1544K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45109: 178 nodes malloced for 14 KB
+Process 45109: 0 leaks for 0 total leaked bytes.
+
+It was an ordinary grey autumn day in 1993. 
+    You came home from work at Hewlett-Packard, feeling a little tired. 
+        You lived in a small two-bedroom apartment on the outskirts of N town. 
+            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+^I
+
+
+
+> Hello everybody out there using minix -Process:         s21_cat [45114]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1023bd000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45113]
+
+Date/Time:       2024-05-23 17:28:08.496 +0700
+Launch Time:     2024-05-23 17:28:08.057 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1588K
+Physical footprint (peak):  1588K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45114: 178 nodes malloced for 14 KB
+Process 45114: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+
+
+     7	> Hello everybody out there using minix -Process:         s21_cat [45119]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1072f5000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45118]
+
+Date/Time:       2024-05-23 17:28:09.146 +0700
+Launch Time:     2024-05-23 17:28:08.706 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45119: 178 nodes malloced for 14 KB
+Process 45119: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. 
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. 
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. 
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.
+
+     5		`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:
+     6		
+
+     7	> Hello everybody out there using minix -Process:         s21_cat [45122]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1066e5000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45121]
+
+Date/Time:       2024-05-23 17:28:09.789 +0700
+Launch Time:     2024-05-23 17:28:09.351 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1564K
+Physical footprint (peak):  1564K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45122: 178 nodes malloced for 14 KB
+Process 45122: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+      	$
+     5	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     6	^I$
+      	$
+     7	> Hello everybody out there using minix -Process:         s21_cat [45126]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100f89000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45125]
+
+Date/Time:       2024-05-23 17:28:10.439 +0700
+Launch Time:     2024-05-23 17:28:09.997 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45126: 178 nodes malloced for 14 KB
+Process 45126: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+      	$
+     5	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     6	^I$
+      	$
+     7	> Hello everybody out there using minix -Process:         s21_cat [45130]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1066db000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45129]
+
+Date/Time:       2024-05-23 17:28:11.082 +0700
+Launch Time:     2024-05-23 17:28:10.646 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45130: 178 nodes malloced for 14 KB
+Process 45130: 0 leaks for 0 total leaked bytes.
+
+     1	It was an ordinary grey autumn day in 1993. $
+     2	    You came home from work at Hewlett-Packard, feeling a little tired. $
+     3	        You lived in a small two-bedroom apartment on the outskirts of N town. $
+     4	            In the fridge was a low-alcohol drink called "Pivo". You took the drink and a bag of crackers, then went to your little corner, to your Dell computer.$
+     5	$
+     6	$
+     7	$
+     8	^I`*Click*` - the power button was pressed. A few minutes of boot loading and... yeah, it feels good. You always get that feeling when you switch on a computer. A few seconds of undisturbed pleasure and you opened the Mosaic browser. Then you went to your favourite forum and read a few threads while sipping a Pivo. Suddenly you come across a very interesting discussion that started with the following message:$
+     9	^I$
+    10	$
+    11	$
+    12	$
+    13	> Hello everybody out there using minix -Process:         s21_cat [45133]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x107970000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45132]
+
+Date/Time:       2024-05-23 17:28:11.729 +0700
+Launch Time:     2024-05-23 17:28:11.287 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1596K
+Physical footprint (peak):  1596K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45133: 178 nodes malloced for 14 KB
+Process 45133: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45138]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x106526000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45137]
+
+Date/Time:       2024-05-23 17:28:12.379 +0700
+Launch Time:     2024-05-23 17:28:11.938 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45138: 178 nodes malloced for 14 KB
+Process 45138: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45141]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10dd94000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45140]
+
+Date/Time:       2024-05-23 17:28:13.027 +0700
+Launch Time:     2024-05-23 17:28:12.588 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1596K
+Physical footprint (peak):  1596K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45141: 178 nodes malloced for 14 KB
+Process 45141: 0 leaks for 0 total leaked bytes.
+
+M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+    $
+        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+        $
+        $
+        $
+M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+$
+$
+$
+*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+Process:         s21_cat [45147]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10630f000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45146]
+
+Date/Time:       2024-05-23 17:28:13.678 +0700
+Launch Time:     2024-05-23 17:28:13.237 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1592K
+Physical footprint (peak):  1592K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45147: 178 nodes malloced for 14 KB
+Process 45147: 0 leaks for 0 total leaked bytes.
+
+Стоял обычный серый день осенью 1993 года. $
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. $
+    $
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. $
+        $
+        $
+        $
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.$
+$
+$
+$
+*Щелчок* — это ты нажал кнопку включения.$
+Process:         s21_cat [45152]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x103e8c000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45151]
+
+Date/Time:       2024-05-23 17:28:14.322 +0700
+Launch Time:     2024-05-23 17:28:13.884 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1636K
+Physical footprint (peak):  1636K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45152: 178 nodes malloced for 14 KB
+Process 45152: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+     9	
+    10	
+    11	
+    12	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45156]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x103543000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45155]
+
+Date/Time:       2024-05-23 17:28:14.978 +0700
+Launch Time:     2024-05-23 17:28:14.531 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1596K
+Physical footprint (peak):  1596K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45156: 178 nodes malloced for 14 KB
+Process 45156: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+     9	
+    10	
+    11	
+    12	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45160]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10c1bd000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45159]
+
+Date/Time:       2024-05-23 17:28:15.625 +0700
+Launch Time:     2024-05-23 17:28:15.185 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45160: 178 nodes malloced for 14 KB
+Process 45160: 0 leaks for 0 total leaked bytes.
+
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45164]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1002fc000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45163]
+
+Date/Time:       2024-05-23 17:28:16.269 +0700
+Launch Time:     2024-05-23 17:28:15.833 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1568K
+Physical footprint (peak):  1568K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45164: 178 nodes malloced for 14 KB
+Process 45164: 0 leaks for 0 total leaked bytes.
+
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45167]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10ff1a000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45166]
+
+Date/Time:       2024-05-23 17:28:16.914 +0700
+Launch Time:     2024-05-23 17:28:16.475 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45167: 178 nodes malloced for 14 KB
+Process 45167: 0 leaks for 0 total leaked bytes.
+
+M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. 
+    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. 
+    
+        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. 
+        
+        
+        
+M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.
+
+
+
+*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.
+Process:         s21_cat [45171]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10f0bb000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45170]
+
+Date/Time:       2024-05-23 17:28:17.567 +0700
+Launch Time:     2024-05-23 17:28:17.120 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1552K
+Physical footprint (peak):  1552K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45171: 178 nodes malloced for 14 KB
+Process 45171: 0 leaks for 0 total leaked bytes.
+
+Стоял обычный серый день осенью 1993 года. 
+    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+    
+        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+        
+        
+        
+Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45177]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x108421000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45176]
+
+Date/Time:       2024-05-23 17:28:18.214 +0700
+Launch Time:     2024-05-23 17:28:17.779 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1560K
+Physical footprint (peak):  1560K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45177: 178 nodes malloced for 14 KB
+Process 45177: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45180]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10b8a1000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45179]
+
+Date/Time:       2024-05-23 17:28:18.860 +0700
+Launch Time:     2024-05-23 17:28:18.419 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1624K
+Physical footprint (peak):  1624K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45180: 178 nodes malloced for 14 KB
+Process 45180: 0 leaks for 0 total leaked bytes.
+
+     1	Стоял обычный серый день осенью 1993 года. 
+     2	    После напряженного рабочего дня в Hewlett-Packard ты наконец вернулся домой. 
+     3	    
+     4	        У тебя небольшая двухкомнатная квартирка на окраине города N, а в холодильнике так кстати завалялась баночка слабоалкогольного напитка под названием pivo. 
+     5	        
+     6	        
+     7	        
+     8	Взяв его и пачку крекеров, ты уселся в свое укромное местечко перед компьютером Dell.
+
+     9	*Щелчок* — это ты нажал кнопку включения.
+Process:         s21_cat [45184]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10f913000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45183]
+
+Date/Time:       2024-05-23 17:28:19.503 +0700
+Launch Time:     2024-05-23 17:28:19.068 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1620K
+Physical footprint (peak):  1620K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45184: 178 nodes malloced for 14 KB
+Process 45184: 0 leaks for 0 total leaked bytes.
+
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+      	$
+     9	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+Process:         s21_cat [45187]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x1037df000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45186]
+
+Date/Time:       2024-05-23 17:28:20.200 +0700
+Launch Time:     2024-05-23 17:28:19.710 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1576K
+Physical footprint (peak):  1576K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45187: 178 nodes malloced for 14 KB
+Process 45187: 0 leaks for 0 total leaked bytes.
+
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+      	$
+     9	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+Process:         s21_cat [45293]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x100464000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45289]
+
+Date/Time:       2024-05-23 17:28:20.932 +0700
+Launch Time:     2024-05-23 17:28:20.438 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1632K
+Physical footprint (peak):  1632K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45293: 178 nodes malloced for 14 KB
+Process 45293: 0 leaks for 0 total leaked bytes.
+
+     1	M-PM-!M-QM-^BM-PM->M-QM-^OM-PM-; M-PM->M-PM-1M-QM-^KM-QM-^GM-PM-=M-QM-^KM-PM-9 M-QM-^AM-PM-5M-QM-^@M-QM-^KM-PM-9 M-PM-4M-PM-5M-PM-=M-QM-^L M-PM->M-QM-^AM-PM-5M-PM-=M-QM-^LM-QM-^N 1993 M-PM-3M-PM->M-PM-4M-PM-0. $
+     2	    M-PM-^_M-PM->M-QM-^AM-PM-;M-PM-5 M-PM-=M-PM-0M-PM-?M-QM-^@M-QM-^OM-PM-6M-PM-5M-PM-=M-PM-=M-PM->M-PM-3M-PM-> M-QM-^@M-PM-0M-PM-1M-PM->M-QM-^GM-PM-5M-PM-3M-PM-> M-PM-4M-PM-=M-QM-^O M-PM-2 Hewlett-Packard M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-:M-PM->M-PM-=M-PM-5M-QM-^F M-PM-2M-PM-5M-QM-^@M-PM-=M-QM-^CM-PM-;M-QM-^AM-QM-^O M-PM-4M-PM->M-PM-<M-PM->M-PM-9. $
+     3	    $
+     4	        M-PM-# M-QM-^BM-PM-5M-PM-1M-QM-^O M-PM-=M-PM-5M-PM-1M-PM->M-PM-;M-QM-^LM-QM-^HM-PM-0M-QM-^O M-PM-4M-PM-2M-QM-^CM-QM-^EM-PM-:M-PM->M-PM-<M-PM-=M-PM-0M-QM-^BM-PM-=M-PM-0M-QM-^O M-PM-:M-PM-2M-PM-0M-QM-^@M-QM-^BM-PM-8M-QM-^@M-PM-:M-PM-0 M-PM-=M-PM-0 M-PM->M-PM-:M-QM-^@M-PM-0M-PM-8M-PM-=M-PM-5 M-PM-3M-PM->M-QM-^@M-PM->M-PM-4M-PM-0 N, M-PM-0 M-PM-2 M-QM-^EM-PM->M-PM-;M-PM->M-PM-4M-PM-8M-PM-;M-QM-^LM-PM-=M-PM-8M-PM-:M-PM-5 M-QM-^BM-PM-0M-PM-: M-PM-:M-QM-^AM-QM-^BM-PM-0M-QM-^BM-PM-8 M-PM-7M-PM-0M-PM-2M-PM-0M-PM-;M-QM-^OM-PM-;M-PM-0M-QM-^AM-QM-^L M-PM-1M-PM-0M-PM-=M-PM->M-QM-^GM-PM-:M-PM-0 M-QM-^AM-PM-;M-PM-0M-PM-1M-PM->M-PM-0M-PM-;M-PM-:M-PM->M-PM-3M-PM->M-PM-;M-QM-^LM-PM-=M-PM->M-PM-3M-PM-> M-PM-=M-PM-0M-PM-?M-PM-8M-QM-^BM-PM-:M-PM-0 M-PM-?M-PM->M-PM-4 M-PM-=M-PM-0M-PM-7M-PM-2M-PM-0M-PM-=M-PM-8M-PM-5M-PM-< pivo. $
+     5	        $
+     6	        $
+     7	        $
+     8	M-PM-^RM-PM-7M-QM-^OM-PM-2 M-PM-5M-PM-3M-PM-> M-PM-8 M-PM-?M-PM-0M-QM-^GM-PM-:M-QM-^C M-PM-:M-QM-^@M-PM-5M-PM-:M-PM-5M-QM-^@M-PM->M-PM-2, M-QM-^BM-QM-^K M-QM-^CM-QM-^AM-PM-5M-PM-;M-QM-^AM-QM-^O M-PM-2 M-QM-^AM-PM-2M-PM->M-PM-5 M-QM-^CM-PM-:M-QM-^@M-PM->M-PM-<M-PM-=M-PM->M-PM-5 M-PM-<M-PM-5M-QM-^AM-QM-^BM-PM-5M-QM-^GM-PM-:M-PM-> M-PM-?M-PM-5M-QM-^@M-PM-5M-PM-4 M-PM-:M-PM->M-PM-<M-PM-?M-QM-^LM-QM-^NM-QM-^BM-PM-5M-QM-^@M-PM->M-PM-< Dell.$
+     9	$
+    10	$
+    11	$
+    12	*M-PM-)M-PM-5M-PM-;M-QM-^GM-PM->M-PM-:* M-bM-^@M-^T M-QM-^MM-QM-^BM-PM-> M-QM-^BM-QM-^K M-PM-=M-PM-0M-PM-6M-PM-0M-PM-; M-PM-:M-PM-=M-PM->M-PM-?M-PM-:M-QM-^C M-PM-2M-PM-:M-PM-;M-QM-^NM-QM-^GM-PM-5M-PM-=M-PM-8M-QM-^O.$
+Process:         s21_cat [45315]
+Path:            /Volumes/VOLUME/*/s21_cat
+Load Address:    0x10a08e000
+Identifier:      s21_cat
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [45314]
+
+Date/Time:       2024-05-23 17:28:21.613 +0700
+Launch Time:     2024-05-23 17:28:21.153 +0700
+OS Version:      macOS 13.6.1 (22G313)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3.1 (14E300c)
+
+Physical footprint:         1580K
+Physical footprint (peak):  1580K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 45315: 178 nodes malloced for 14 KB
+Process 45315: 0 leaks for 0 total leaked bytes.
+

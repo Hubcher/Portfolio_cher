@@ -1,0 +1,6 @@
+Was
+am
+student
+\d\d
+[0-9]
+\d \d

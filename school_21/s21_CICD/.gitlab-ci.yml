@@ -1,0 +1,63 @@
+stages:
+   - build
+   - style
+   - test
+   - deploy
+   
+build-job:
+   stage: build
+   tags:
+      - build
+   script:
+      - cd src/cat
+      - make s21_cat
+      - cd ../grep
+      - make s21_grep
+   after_script:
+      - sh src/status-tg.sh
+   artifacts:
+      paths:
+        - src/cat/s21_cat
+        - src/grep/s21_grep
+      expire_in: 30 days
+   only:
+     - develop
+
+style-job:
+  stage: style
+  tags:
+    - style
+  script:
+    - cd src/cat && clang-format -style=Google -Werror -n  *.c *.h
+    - cd ../grep && clang-format -style=Google -Werror -n  *.c
+  after_script:
+    - sh src/status-tg.sh
+  only:
+    - develop
+
+test-job:
+   stage: test
+   tags:
+    - test
+   script:
+    - cd src/cat
+    - make test 
+    - cd ../grep
+    - make test
+   after_script: 
+    - sh src/status-tg.sh
+   when: on_success
+
+deploy-job:
+  stage: deploy
+  tags:
+    - deploy
+  when: manual # Вручную, а не автоматически
+  script:
+    - cd ./src/
+    - chmod +x copy.sh
+    - sh copy.sh
+  after_script:
+    - sh src/status-tg.sh
+  only:
+    - develop
